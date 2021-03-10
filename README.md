@@ -8,3 +8,10 @@ And where:
 - We will see hands-on tutorials focused on coding
 - Practice coding with Jupyter notebooks in the cloud
 - Build a real-world end-to-end course projects
+
+Folders:
+* ![DS_em_Producao](https://github.com/Lulasales/Data_Science_Learning/tree/main/DS_em_Producao)
+* ![Python_Impressionador](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_Impressionador)
+* ![Python_do_Zero_ao_DS](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_do_Zero_ao_DS)
+* ![images](https://github.com/Lulasales/Data_Science_Learning/tree/main/images)
+   
