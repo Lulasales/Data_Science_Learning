@@ -10,8 +10,12 @@ And where:
 - Build a real-world end-to-end course projects
 
 Folders:
-* ![DS_em_Producao](https://github.com/Lulasales/Data_Science_Learning/tree/main/DS_em_Producao)
-* ![Python_Impressionador](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_Impressionador)
-* ![Python_do_Zero_ao_DS](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_do_Zero_ao_DS)
-* ![images](https://github.com/Lulasales/Data_Science_Learning/tree/main/images)
+* [DS_em_Producao](https://github.com/Lulasales/Data_Science_Learning/tree/main/DS_em_Producao)
+   * Data Science in Production Course Repository
+* [Python_Impressionador](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_Impressionador)
+   * Python Impressionador Course Repository
+* [Python_do_Zero_ao_DS](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_do_Zero_ao_DS)
+   * Python do Zero ao DS Course repository
+* [images](https://github.com/Lulasales/Data_Science_Learning/tree/main/images)
+   * Repository of images used in this repository
    
