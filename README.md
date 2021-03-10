@@ -10,11 +10,11 @@ And where:
 - Build a real-world end-to-end course projects
 
 Folders:
-* <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg" />[DS_em_Producao](https://github.com/Lulasales/Data_Science_Learning/tree/main/DS_em_Producao)
+* <img align="left" alt="Production" width="26px" src="images/In_production_icon.png" />[DS_em_Producao](https://github.com/Lulasales/Data_Science_Learning/tree/main/DS_em_Producao)
   * Data Science in Production Course Repository
 * <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />[Python_Impressionador](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_Impressionador)
   * Python Impressionador Course Repository
-* [Python_do_Zero_ao_DS](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_do_Zero_ao_DS)
+* <img align="left" alt="Python" width="26px" src="images/python_white_icon.png" />[Python_do_Zero_ao_DS](https://github.com/Lulasales/Data_Science_Learning/tree/main/Python_do_Zero_ao_DS)
    * Python do Zero ao DS Course repository
 * <img align="left" alt="Images" width="26px" src="images/image_icon.png" />[Images](https://github.com/Lulasales/Data_Science_Learning/tree/main/images)
    * Repository of images used in this repository
