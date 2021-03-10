@@ -1,9 +1,9 @@
-# Python_practices
-Repositorio para los notebooks creados en el aprendizaje de Python para Data Science/Data Analise.
+# Data_Science_Learning
+Repository for documentation related and created in learning Python and Data Science/Data Analytics.
 
-Este repositorio es una introducción práctica y amigable para principiantes al análisis de datos que cubre los conceptos básicos de Python, Numpy, Pandas, Visualización de Datos y Análisis exploratorio de datos.
+This repository is a practical, beginner-friendly introduction to data analysis covering the basics of Python, Numpy, Pandas, Data Visualization and Exploratory Data Analysis.
 
-Y donde:
-- Veremos tutoriales prácticos centrados en la codificación
-- Practicaremos codificación con cuadernos Jupyter en la nube
-- Construiremos un proyecto de curso del mundo real de extremo a extremo
+And where:
+- We will see hands-on tutorials focused on coding
+- Practice coding with Jupyter notebooks in the cloud
+- Build a real-world end-to-end course projects
