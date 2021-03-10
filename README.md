@@ -1,3 +1,4 @@
+![](images/Data_Science_Readme_Photo.jpg)
 # Data_Science_Learning
 Repository for documentation related and created in learning Python and Data Science/Data Analytics.
 
